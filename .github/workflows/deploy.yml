@@ -3,7 +3,7 @@ name: Deploy Theme
 on:
   push:
     branches:
-      - main
+      - sandbox
 
 jobs:
   build-and-deploy:
